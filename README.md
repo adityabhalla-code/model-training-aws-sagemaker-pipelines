@@ -5,7 +5,6 @@ The template provides a starting point for bringing your SageMaker Pipeline deve
  
 ```
 |-- codebuild-buildspec.yml
-|-- CONTRIBUTING.md
 |-- pipelines
 |   |-- poc
 |   |   |-- evaluation.py
@@ -77,4 +76,4 @@ The `tox` testing framework configuration:
 
 ## Dataset for the poc  Pipeline
 
-The dataset used is the [UCI Machine Learning Bike Share Dataset](https://archive.ics.uci.edu/ml/datasets/abalone)
+The dataset used is the [UCI Machine Learning Bike Share Dataset](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset)
